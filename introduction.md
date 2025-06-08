@@ -31,7 +31,7 @@ The main Toaq parser is [Kuna](https://toaq.net/kuna/), it is currently the most
 
 The Lojban lexicon features [bloatedness of verb frames](<https://mw.lojban.org/papri/Bloated_Gismu_Syndrome>) (argument structures), most verbs having unnecessary auxiliary argument slots indicating function, standards, conditions of truth, material composition, and many other such things. Verb frames are often irregular and inconsistent, verbs of similar meanings often have inconsistent frames (slot types, slot ordering, valency…). This is occasionaly source of semantic issues, as with the tetravalent verb ⟪botpi⟫, defined as *“x₁ is a bottle for containing x₂, made of x₃, with lid x₄”*, implying that a bottle without associated lid cannot be described as being a ⟦botpi⟧. Lojban does not put a limit on the valencies of verbs, except for the core set of basic verbs called *“gismu”*, which have a maximal valency of 5 (with the exception of a very few ones allowing infinite valency). Simiarly to Toaq, Lojban's lexicon contains a little over 20k lexical units.
 
-Lojban has undergone significant dialectalization over time. There exist various parsers for Lojban, such as [this one](<https://lojban.github.io/ilmentufa/glosser/glosser.htm> and [that one](<https://lojban.github.io/ilmentufa/camxes.html>)). There exist parser versions specific to certain dialects.
+Lojban has undergone significant dialectalization over time. There exist various parsers for Lojban, such as [this one](<https://lojban.github.io/ilmentufa/glosser/glosser.htm>) and [that one](<https://lojban.github.io/ilmentufa/camxes.html>). There exist parser versions specific to certain dialects.
 
 
 ## Loglan
