@@ -39,6 +39,7 @@ Lojban has undergone significant dialectalization over time. There exist various
 [Loglan](<http://www.loglan.org/>), created in 1955 by the sociologist James Cook Brown, is the first constructed language to have been qualified as ‘logical language’, and it is historically the ancestor of Lojban. As it has since continued to evolve separately, it may also be qualified of sister language to Lojban. Lojban started off mostly as a relex of Loglan. While the two languages retain strong similarities, they have slowly drifted away from each other. Loglan has a little over 10k lexical units.
 
 ## Xextan
+[Xextan](https://xextan.github.io/), released in 2022, started as a drastic simplification of Lojban, with shortened, monosyllabic verb roots instead of the Lojban disyllabic roots. Xextan aims at simplicity and ease of learning. It currently has 1115 words.
 
 ## Eberban
 
