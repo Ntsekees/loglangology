@@ -45,6 +45,7 @@ Lojban has undergone significant dialectalization over time. There exist various
 [Eberban](https://eberban.github.io/eberban/), released in 2020 by Mia Entropy, is a verb-only loglang whose grammar revolves around the concept of [serial verb construction](https://en.wikipedia.org/wiki/Serial_verb_construction); the concepts of nominalization, noun phrase and determiner phrase don't exist in Eberban, everything is expressed as a chain of verbs, each having certain inherent syntactic behaviors such as intransitivity vs transitivity, as indicated by the shape of the verb word. Eberban currently has 774 words.
 
 ## Nahaıwa
+[Nahaıwa](https://ntsekees.github.io/), released in 2021 by Ntsékees, is a polysynthetic loglang with a complex inflectional morphology, with word stems inflecting for many possible syntactic functions such as root verb (with illocution marking), subordinate verb, noun (with noun case marking), adjective, adverb, interjection, and even coordinator and quantifier. The language only has a very few particles (not even a dozen), as most of the grammatical load is assumed by the morphology. The language currently has 450 lexical units.
 
 ## Gua\spi
 
