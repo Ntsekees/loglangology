@@ -42,6 +42,7 @@ Lojban has undergone significant dialectalization over time. There exist various
 [Xextan](https://xextan.github.io/), released in 2022, started as a drastic simplification of Lojban, with shortened, monosyllabic verb roots instead of the Lojban disyllabic roots. Xextan aims at simplicity and ease of learning. It currently has 1115 words.
 
 ## Eberban
+[Eberban](https://eberban.github.io/eberban/), released in 2020, is a verb-only loglang whose grammar revolves around the concept of [serial verb construction](https://en.wikipedia.org/wiki/Serial_verb_construction); the concepts of nominalization, noun phrase and determiner phrase don't exist in Eberban, everything is expressed as a chain of verbs, each having certain inherent syntactic behaviors such as intransitivity vs transitivity, as indicated by the shape of the verb word. Eberban currently has 774 words.
 
 ## Nahaıwa
 
