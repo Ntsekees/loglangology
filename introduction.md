@@ -52,6 +52,9 @@ Lojban has undergone significant dialectalization over time. There exist various
 
 ## Predilex: a cross-loglang lexicosemantic thesaurus
 
+[Predilex](https://ntsekees.github.io/Predilex/viewer/index.html) ([🔗 repository](https://github.com/Ntsekees/Predilex/)) is a thesaurus of sememes represented as predicates, each bearing an unique ID, with definitions in English and logic notation, as well as cross-linking with lemmas in various natural language and logical languages; it also features semantic category tags and relationships like hypernymy, meronymy etc. with other Predilex entries.
+
 ## Loglang Tatoeba
+[Loglang Tatoeba](https://ntsekees.github.io/loglang-tatoeba/) ([🔗 repository](https://github.com/Ntsekees/loglang-tatoeba/)) is a repository of challenging English sentences with translations in various loglangs and other languages. One of its purposes is to showcase the solutions that have been found for translating such sentences in loglangs.
 
 
