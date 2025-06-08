@@ -48,6 +48,7 @@ Lojban has undergone significant dialectalization over time. There exist various
 [Nahaıwa](https://ntsekees.github.io/), released in 2021 by Ntsékees, is a polysynthetic loglang with a complex inflectional morphology, with word stems inflecting for many possible syntactic functions such as root verb (with illocution marking), subordinate verb, noun (with noun case marking), adjective, adverb, interjection, and even coordinator and quantifier. The language only has a very few particles (not even a dozen), as most of the grammatical load is assumed by the morphology. The language currently has 450 lexical units.
 
 ## Gua\spi
+[Gua\spi](https://www.jfcarter.net/~jimc/guaspi/), released in 1989 by Jim F. Carter, was historically the 3rd loglang project, and the first tonal loglang. It features syllabic consonants, grammatical tones allowing navigating in abstract levels of syntactic nesting, as well as extensive use of type correction.
 
 ## Others
 
